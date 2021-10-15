@@ -1,0 +1,15 @@
+Author- Amrutnarayan Panigrahi
+
+
+original wikimedia project :
+wikimedia/jQuery.ime  http://github.com/wikimedia/jquery.ime
+
+This project was tweaked upon
+https://github.com/majnun1337/TypeOdia
+developed by Manoj Sahukar and Subhashish Panigrahi 
+
+For quick try of above tool
+http://majnun1337.github.io/TypeOdia/
+
+demo video - https://www.youtube.com/watch?v=WUI6NcSyoFc
+
