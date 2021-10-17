@@ -10,7 +10,7 @@
 		author: ' Amrutnarayan Panigrahi',
 		license: 'GPLv3',
 		version: '0.1',
-		contextLength: 4,
+		contextLength: 5,
 		maxKeyLength: 2,
 		patterns: [
 			[ '\\\\([A-Za-z\\>_~\\.0-9])', '\\\\', '$1' ],  // preserve after typing '\'
